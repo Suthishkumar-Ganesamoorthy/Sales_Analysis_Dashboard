@@ -24,9 +24,5 @@ This dashboard visualizes synthetic sales data (Jan–Jun 2023) by region, produ
 ## 🤝 Credits
 Project by **Suthishkumar**.  
 Synthetic data for demonstration purposes.
-
-## 📜 License
-MIT (or specify your license)
-
 ---
 
